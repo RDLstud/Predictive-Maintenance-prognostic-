@@ -40,3 +40,16 @@ A brief EDA was conducted to:
 > - Preliminary experiments in **survival analysis** were introduced (e.g., Cox-based or logistic hazard models).
 
 ---
+
+## Future Work
+
+- Extend to real-world datasets
+- Try nonlinear RUL curves
+- Apply survival modeling with realistic hazard functions
+- Explore model explainability
+
+---
+
+## Project Context
+
+Developed for a university project on temporal modeling in health management systems.
